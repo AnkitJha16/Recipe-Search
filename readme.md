@@ -1,6 +1,6 @@
 # Recipe-Search Forkify Project
 
-Food recipe finder application with custom recipe upload facility.
+Food recipe finder application with custom recipe finder and upload facility.
 
 ## ScreenShots
 
